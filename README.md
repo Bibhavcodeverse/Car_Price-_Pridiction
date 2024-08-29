@@ -1,2 +1,2 @@
-# Car_Price-_Pridiction
+# Car_Price_Pridiction
  Machine learning model project for pridiction car price 
