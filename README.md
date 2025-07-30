@@ -65,7 +65,7 @@ Contributions are welcome! If you have any improvements or bug fixes, please for
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or feedback, please contact [Your Name](mailto:bibhavkumar05@gmail.com).
+For any questions or feedback, please contact [Mail ID:](mailto:bibhavkumar05@gmail.com).
 
 ---
 
